@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/img/travel-1.jpg",
+        "alt": "lalala",
+        "name": "Cairo, Egypt",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/img/travel-2.jpg",
+        "alt": "Multiple hot air balloons over Palermo",
+        "name": "Palermo, Sicily",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/img/travel-3.jpg",
+        "alt": "Coast with grassland to the left",
+        "name": "Secagnol, France",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/img/travel-4.jpg",
+        "alt": "Shore with an iceberg in the back",
+        "name": "Ilulissat, Greenland",
+        "button": "View Destination"
+    }
+]
