@@ -2,6 +2,14 @@
 ## Goal
 - This site is meant to be a starter project to understand and improve the workflows in react and gatsby. 
 
+## Result
+#### Desktop Landing Page
+<img src="./showcase/desktop_showcase.gif" width="500" />
+
+#### Mobile Landing Page
+<img src="./showcase/mobile_showcase.gif" width="500" />
+
+
 ## Tools & Libraries used
 - React
 - Gatsby
