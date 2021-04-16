@@ -1,6 +1,7 @@
 # Explorox-sample-site
 ## Goal
 - This site is meant to be a starter project to understand and improve the workflows in react and gatsby. 
+- Fully responsive
 
 ## Result
 #### Desktop Landing Page
