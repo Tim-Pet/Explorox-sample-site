@@ -4,7 +4,7 @@ import Aos from 'aos'
 import "aos/dist/aos.css"
 import {useStaticQuery, graphql} from 'gatsby'
 import Img from 'gatsby-image'
-import {Button} from './button'
+import {Button} from './Button'
 import {ImLocation} from 'react-icons/im'
 
 const Trips = ({heading}) => {
