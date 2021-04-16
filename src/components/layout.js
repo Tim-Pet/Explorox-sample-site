@@ -1,7 +1,7 @@
 import React, {useState} from "react"
 import Dropdown from "./Dropdown"
 import Footer from "./Footer"
-import Header from "./Header"
+import Header from "./Header.js"
 import { GlobalStyle } from "./styles/GlobalStyles"
 
 const Layout = ({ children }) => {
