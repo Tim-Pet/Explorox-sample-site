@@ -30,6 +30,8 @@
 - Usage of Styled components
 - Auto-fit Images with GraphQl & Gtasby-Image
 - Parallax effects with AOS
+- Git is case insensitive when it comes to filenames -> checking git repo & using git mv <oldFilename> <newFilename> does the trick here
+- Case insensitivity can lead to deployment-errors
 
 ## Next Steps
 - Improve generic structure of components
