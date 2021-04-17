@@ -6,7 +6,7 @@ import {FaBars} from 'react-icons/fa'
 import {menuData} from '../data/MenuData'
 import { Button } from './Button'
 
-const Header = ({ toggle }) => {
+const Header2 = ({ toggle }) => {
 
   const[navbar, setNavbar] = useState("/")
   
@@ -33,7 +33,7 @@ const Header = ({ toggle }) => {
   )
 }
 
-export default Header
+export default Header2
 
 const Nav = styled.nav`
   background: ${({ navbar }) => (navbar !== "/" ? "#141414" : "transparent")};
